@@ -61,27 +61,38 @@ https://callkeeper.ru/blog/callkeeper-mytarget-leadads/
 
 Для чего необходима интеграции callkeeper с myTarget Lead Ads:
 
-
-
-
+1. При подключении вы получаете сразу звонки, а не заявки, которые нужно обрабатывать и контролировать.
+2. Ночной режим — автоматическая обработка и запуск звонков в ближайшее рабочее время.
+3. Проговаривание при соединении информации — названия формы, имени клиента и т.д.
+4. Хранение и контроль информации: источник звонка, телефон, запись разговора, содержание заявки.
 
 Что необходимо для интеграции:
+1. форма OK Lead Ads на сайте Одноклассники.
+2. Аккаунт myTarget.
+3. Компания в myTarget с привязкой к форме Lead Ads.
+4. Аккаунт CallKeeper.
+5. Форма обратного звонка CallKeeper.
+6. Ативный виджет в личном кабинете CallKeeper.
 
 
-
-
-Перейдите на сайт github.com/callkeeper (https://callkeeper.ru/blog/callkeeper-google-lead-form/), чтобы ознакомиться с инструкцией по созданию интеграции.
-
-
-
-
-**Отправка звонков Callkeeper в Яндекс.Метрику**
-
-https://callkeeper.ru/blog/callkeeper_otpravka_zvonkov_metrika/ and https://callkeeper.ru/blog/callkeeper-events-yandex-metrika/
-
+Перейдите на сайт github.com/callkeeper (https://github.com/yuferev/callkeeper/blob/master/documentation/integrations/mytarget/mytarget.md), чтобы ознакомиться с инструкцией по созданию интеграции.
 
 
 
 **VK**
 
 https://callkeeper.ru/blog/callkeeper-vkontakte-leads/
+
+
+Для чего необходима интеграции callkeeper с VK Leads :
+
+
+
+
+Что необходимо для интеграции:
+
+1. Группа (сообщество) ВКонтакте.
+2. Настроенная форма VK Leads.
+3. Аккаунт на CallKeeper.
+
+Перейдите на сайт github.com/callkeeper (https://github.com/yuferev/callkeeper/blob/master/documentation/integrations/vk_leads/vk_leads_ru.md#%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D1%81-VK-Leads), чтобы ознакомиться с инструкцией по созданию интеграции.
