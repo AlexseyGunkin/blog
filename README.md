@@ -91,8 +91,6 @@ https://callkeeper.ru/blog/callkeeper-vkontakte-leads/
 3. Проговаривание при соединении информации — названия формы, имени клиента и т.д.
 4. Хранение и контроль информации: источник звонка, телефон, запись разговора, содержание заявки.
 
-
-
 Что необходимо для интеграции:
 
 1. Группа (сообщество) ВКонтакте.
@@ -100,3 +98,27 @@ https://callkeeper.ru/blog/callkeeper-vkontakte-leads/
 3. Аккаунт на CallKeeper.
 
 Перейдите на сайт github.com/callkeeper (https://github.com/yuferev/callkeeper/blob/master/documentation/integrations/vk_leads/vk_leads_ru.md#%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D1%81-VK-Leads), чтобы ознакомиться с инструкцией по созданию интеграции.
+
+
+
+
+
+
+
+**Отправка звонков Callkeeper в Яндекс.Метрику**
+https://callkeeper.ru/blog/callkeeper_otpravka_zvonkov_metrika/
+
+Для чего необходима интеграция Callkeeper и Яндекс.Метрики :
+
+1. Возможность формировать отчеты по данным звонков (Качество обработки звонков,Источники звонков,Звонки, детально).
+2. Расширенные возможности аналитики.
+
+Что необходимо для интеграции:
+
+1. Аккаунт яндекс.метрики
+2. аккаунт CallTracking
+
+Перейдите на сайт github.com/callkeeper (https://github.com/yuferev/callkeeper/blob/master/documentation/integrations/Yandex_metrika/README.md), чтобы ознакомиться с инструкцией по созданию интеграции.
+
+
+
