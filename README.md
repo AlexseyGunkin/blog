@@ -11,7 +11,7 @@
 2. Аккаунт DCM.
 3. Подключить интеграцию в личном кабинете CallTracking.
 
-Перейдите на сайт github.com/callkeeper (https://github.com/yuferev/callkeeper/blob/master/documentation/integrations/DCM/DCM.md), чтобы ознакомиться с инструкцией по созданию интеграции.
+Перейдите на сайт github.com/callkeeper (https://github.com/yuferev/callkeeper/blob/master/documentation/integrations/DCM/README.md), чтобы ознакомиться с инструкцией по созданию интеграции.
 
 
 **Tik_ToK**
@@ -30,7 +30,7 @@
 4. Настроить интеграцию и форму для рекламного объявления.
 
 
-Перейдите на сайт github.com/callkeeper (https://github.com/yuferev/callkeeper/blob/master/documentation/integrations/Tik-Tok/Tik-Tok.md), чтобы ознакомиться с инструкцией по созданию интеграции.
+Перейдите на сайт github.com/callkeeper (https://github.com/yuferev/callkeeper/blob/master/documentation/integrations/Tik-Tok/README.md), чтобы ознакомиться с инструкцией по созданию интеграции.
 
 
 
@@ -51,7 +51,7 @@ https://callkeeper.ru/blog/callkeeper-google-lead-form/
 2. Аккаунт Google с формой для потенциальных клиенитов.
 3. URL вебхука и Ключ whash 
 
-Перейдите на сайт github.com/callkeeper (https://github.com/yuferev/callkeeper/blob/master/documentation/integrations/google/google_lead_form.md), чтобы ознакомиться с инструкцией по созданию интеграции.
+Перейдите на сайт github.com/callkeeper (https://github.com/yuferev/callkeeper/blob/master/documentation/integrations/google/README.md), чтобы ознакомиться с инструкцией по созданию интеграции.
 
 
 
@@ -75,7 +75,7 @@ https://callkeeper.ru/blog/callkeeper-mytarget-leadads/
 6. Ативный виджет в личном кабинете CallKeeper.
 
 
-Перейдите на сайт github.com/callkeeper (https://github.com/yuferev/callkeeper/blob/master/documentation/integrations/mytarget/mytarget.md), чтобы ознакомиться с инструкцией по созданию интеграции.
+Перейдите на сайт github.com/callkeeper (https://github.com/yuferev/callkeeper/blob/master/documentation/integrations/mytarget/README.md), чтобы ознакомиться с инструкцией по созданию интеграции.
 
 
 
@@ -97,7 +97,7 @@ https://callkeeper.ru/blog/callkeeper-vkontakte-leads/
 2. Настроенная форма VK Leads.
 3. Аккаунт на CallKeeper.
 
-Перейдите на сайт github.com/callkeeper (https://github.com/yuferev/callkeeper/blob/master/documentation/integrations/vk_leads/vk_leads_ru.md#%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D1%81-VK-Leads), чтобы ознакомиться с инструкцией по созданию интеграции.
+Перейдите на сайт github.com/callkeeper (https://github.com/yuferev/callkeeper/blob/master/documentation/integrations/vk_leads/README.md), чтобы ознакомиться с инструкцией по созданию интеграции.
 
 
 
