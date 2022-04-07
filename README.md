@@ -37,6 +37,7 @@ https://callkeeper.ru/blog/callkeeper-events-yandex-metrika/
 6. Обработка форм на сайте 
 7. Отправка события по API 
 8. Звонки коллтрекинга
+9. Составная цель для звонков
 
 Перейдите на сайт github.com/callkeeper (https://github.com/yuferev/callkeeper/blob/master/documentation/callkeeper_events/events-Metrika/README.md), чтобы ознакомиться с инструкцией по настройке интеграции.
 
