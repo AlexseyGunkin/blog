@@ -1,9 +1,11 @@
 1. Сетевая модель ОСИ. Ознакомиться.
+
 https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C_OSI
 
 https://selectel.ru/blog/osi-for-beginners/
 
 2. Протокол НТТР. Почитать.
+
 https://habr.com/ru/post/215117/
 
 https://www.rfc-editor.org/rfc/rfc2616
@@ -20,6 +22,8 @@ https://www.dialektika.com/PDF/978-5-907144-81-1/part.pdf
 https://www.swd.ru/print.php3?pid=454
 
 https://habr.com/ru/post/483204/
+
+https://developer.mozilla.org/ru/docs/Learn/JavaScript/Objects/JSON
 
 
 4. Что такое и принципы построения API.
