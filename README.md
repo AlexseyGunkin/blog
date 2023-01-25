@@ -34,6 +34,8 @@ https://blog.ingate.ru/seo-wikipedia/api/
 
 https://blog.skillfactory.ru/glossary/rest-api/
 
+https://habr.com/ru/post/464261/
+
 
 5. Синхронное и асинхронное всаимодействие сервисов. Что это, разница, примеры применения, когда какое применять. Брокеры сообщений.
 
