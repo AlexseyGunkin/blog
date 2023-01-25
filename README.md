@@ -39,6 +39,7 @@ https://habr.com/ru/post/464261/
 https://boodet.online/blog/rest-api-chto-eto-prostymi-slovami-principy-standarty-opisanie
 
 
+
 5. Синхронное и асинхронное всаимодействие сервисов. Что это, разница, примеры применения, когда какое применять. Брокеры сообщений.
 
 https://habr.com/ru/company/oleg-bunin/blog/543946/
@@ -110,5 +111,8 @@ https://neerc.ifmo.ru/wiki/index.php?title=%D0%9A%D0%BB%D0%B0%D1%81%D1%82%D0%B5%
 
 https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%BD%D0%BE%D0%B5_%D0%BA%D0%BE%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
 
+https://www.ibm.com/docs/ru/i/7.2?topic=availability-load-balancing
+
+https://www.xelent.ru/blog/otkazoustoychivost-i-katastrofoustoychivost-sravnenie-podkhodov/
 
 13. Таск трекеры, баг трекеры. Jira, Confluence.
