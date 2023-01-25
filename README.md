@@ -36,6 +36,8 @@ https://blog.skillfactory.ru/glossary/rest-api/
 
 https://habr.com/ru/post/464261/
 
+https://boodet.online/blog/rest-api-chto-eto-prostymi-slovami-principy-standarty-opisanie
+
 
 5. Синхронное и асинхронное всаимодействие сервисов. Что это, разница, примеры применения, когда какое применять. Брокеры сообщений.
 
