@@ -25,25 +25,38 @@ https://habr.com/ru/post/483204/
 
 https://developer.mozilla.org/ru/docs/Learn/JavaScript/Objects/JSON
 
+https://habr.com/ru/post/90696/
+
 
 4. Что такое и принципы построения API.
 
 https://blog.ingate.ru/seo-wikipedia/api/
 
+https://blog.skillfactory.ru/glossary/rest-api/
+
+
 5. Синхронное и асинхронное всаимодействие сервисов. Что это, разница, примеры применения, когда какое применять. Брокеры сообщений.
 
 https://habr.com/ru/company/oleg-bunin/blog/543946/
+
+https://habr.com/ru/company/sberbank/blog/669456/
 
 6. Микросервисная архитектура, клиент серверная архитектура (2х звенная, 3х звенная) и система-монолит.
 
 https://www.atlassian.com/ru/microservices/microservices-architecture/microservices-vs-monolith
 
 7. Контейнеризация. Зачем нужна, ознакомиться.
+
+https://aws.amazon.com/ru/what-is/containerization/
+
+
+
 8. Sql. Запросы select (все joins и where, having, distinct, like, in, order). Ознакомиться с созданием таблиц, insert, update, delete и другие. Индексирование бд. Ключи в бд. Почитать теорию по реляционным БД.
 
 https://www.google.com/search?q=%D0%98%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B4&oq=%D0%98%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B4&aqs=chrome..69i57j0i512.703j0j7&sourceid=chrome&ie=UTF-8
 
 stepik.org
+id.karpov.courses
 
 https://shra.ru/2017/09/sql-join-v-primerakh-s-opisaniem/
 
@@ -52,6 +65,8 @@ http://2sql.ru/novosti/sql-having/
 http://2sql.ru/novosti/sql-distinct/
 
 http://2sql.ru/novosti/sql-like/
+
+https://coderlessons.com/tutorials/bazy-dannykh/osnovy-subd/15-indeksirovanie-v-bazakh-dannykh
 
 9. Agile, canban, scrum. Что это, отличия, идеология работы. Waterfall, что это и отличия от Agile. Что когда лучше применять.
 
