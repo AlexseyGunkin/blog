@@ -41,9 +41,19 @@ https://habr.com/ru/company/oleg-bunin/blog/543946/
 
 https://habr.com/ru/company/sberbank/blog/669456/
 
+https://learn.microsoft.com/ru-ru/dotnet/architecture/microservices/architect-microservice-container-applications/asynchronous-message-based-communication
+
+https://codernet.ru/articles/drugoe/sinxronnaya_i_asinxronnaya_peredacha_dannyix_terminologiya_i_otlichiya/
+
+Синхронное и асинхронное всаимодействие сервисов - примеры и когда применяются 
+
 6. Микросервисная архитектура, клиент серверная архитектура (2х звенная, 3х звенная) и система-монолит.
 
+https://itelon.ru/blog/arkhitektura-klient-server/
+
 https://www.atlassian.com/ru/microservices/microservices-architecture/microservices-vs-monolith
+
+https://habr.com/ru/company/raiffeisenbank/blog/346380/
 
 7. Контейнеризация. Зачем нужна, ознакомиться.
 
